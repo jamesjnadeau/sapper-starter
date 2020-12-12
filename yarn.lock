@@ -3780,9 +3780,9 @@ inherits@2.0.3:
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 ini@^1.3.4, ini@^1.3.5:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 inquirer@^7.0.0:
   version "7.1.0"
@@ -7611,10 +7611,10 @@ sanitize-html@^1.20.1:
     srcset "^2.0.1"
     xtend "^4.0.1"
 
-sapper@sapper:
-  version "0.27.13"
-  resolved "https://registry.yarnpkg.com/sapper/-/sapper-0.27.13.tgz#75c965ea28c052ead9e6094e0b77a189199f534c"
-  integrity sha512-LSx7kAE/ukcGLrcKxwoU45puj76HYVm/zQlwiYUHvZ9kRCZbzRAhrIaCna+3BqS0iH6IsAy3aTguZ002SkAc6A==
+sapper@^0.27.13:
+  version "0.27.16"
+  resolved "https://registry.yarnpkg.com/sapper/-/sapper-0.27.16.tgz#df2854853f11b968f5ad9d54354fe7dc0cd57680"
+  integrity sha512-q8dohkbhga6xO+0a8h84odFyoilQ0D0vJtF8NHra/DQmSeN2R2MXUfwhw3EyvLms3T1x8H3v+qw642Qf5JXA9g==
   dependencies:
     html-minifier "^4.0.0"
     http-link-header "^1.0.2"
