@@ -7611,10 +7611,10 @@ sanitize-html@^1.20.1:
     srcset "^2.0.1"
     xtend "^4.0.1"
 
-sapper@sapper:
-  version "0.27.13"
-  resolved "https://registry.yarnpkg.com/sapper/-/sapper-0.27.13.tgz#75c965ea28c052ead9e6094e0b77a189199f534c"
-  integrity sha512-LSx7kAE/ukcGLrcKxwoU45puj76HYVm/zQlwiYUHvZ9kRCZbzRAhrIaCna+3BqS0iH6IsAy3aTguZ002SkAc6A==
+sapper@^0.27.13:
+  version "0.27.16"
+  resolved "https://registry.yarnpkg.com/sapper/-/sapper-0.27.16.tgz#df2854853f11b968f5ad9d54354fe7dc0cd57680"
+  integrity sha512-q8dohkbhga6xO+0a8h84odFyoilQ0D0vJtF8NHra/DQmSeN2R2MXUfwhw3EyvLms3T1x8H3v+qw642Qf5JXA9g==
   dependencies:
     html-minifier "^4.0.0"
     http-link-header "^1.0.2"
@@ -8698,9 +8698,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uc.micro@^1.0.1, uc.micro@^1.0.5:
   version "1.0.6"
