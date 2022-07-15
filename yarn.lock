@@ -7611,10 +7611,10 @@ sanitize-html@^1.20.1:
     srcset "^2.0.1"
     xtend "^4.0.1"
 
-sapper@sapper:
-  version "0.27.13"
-  resolved "https://registry.yarnpkg.com/sapper/-/sapper-0.27.13.tgz#75c965ea28c052ead9e6094e0b77a189199f534c"
-  integrity sha512-LSx7kAE/ukcGLrcKxwoU45puj76HYVm/zQlwiYUHvZ9kRCZbzRAhrIaCna+3BqS0iH6IsAy3aTguZ002SkAc6A==
+sapper@^0.27.13:
+  version "0.27.16"
+  resolved "https://registry.yarnpkg.com/sapper/-/sapper-0.27.16.tgz#df2854853f11b968f5ad9d54354fe7dc0cd57680"
+  integrity sha512-q8dohkbhga6xO+0a8h84odFyoilQ0D0vJtF8NHra/DQmSeN2R2MXUfwhw3EyvLms3T1x8H3v+qw642Qf5JXA9g==
   dependencies:
     html-minifier "^4.0.0"
     http-link-header "^1.0.2"
@@ -8364,10 +8364,10 @@ svelte-loader@^2.9.0:
     loader-utils "^1.1.0"
     svelte-dev-helper "^1.1.9"
 
-svelte@^3.0.0:
-  version "3.23.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.23.0.tgz#bbcd6887cf588c24a975b14467455abfff9acd3f"
-  integrity sha512-cnyd96bK/Nw5DnYuB1hzm5cl6+I1fpmdKOteA7KLzU9KGLsLmvWsSkSKbcntzODCLmSySN3HjcgTHRo6/rJNTw==
+svelte@^3.49.0:
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.49.0.tgz#5baee3c672306de1070c3b7888fc2204e36a4029"
+  integrity sha512-+lmjic1pApJWDfPCpUUTc1m8azDqYCG1JN9YEngrx/hUyIcFJo6VZhj0A1Ai0wqoHcEIuQy+e9tk+4uDgdtsFA==
 
 symbol-observable@1.0.1:
   version "1.0.1"
